@@ -6,7 +6,7 @@ Software Developer
 
 I am Yashas and I am currently working as a Software Developer as well as pursuing a degree in BSc Hons Software Development for Business
 
-* ✉️  You can contact me at [yashaspasumarthu@gmail.com](mailto:yashaspasumarthu@gmail.com)
+* ✉️  You can contact me at [yashaspasumarthi@gmail.com](mailto:yashaspasumarthu@gmail.com)
 * 🧠  I'm learning Artificial Intelligence: Neural Networks
 
 ### Skills
