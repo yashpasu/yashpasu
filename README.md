@@ -4,10 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am Yashas and I am currently working as a Software Developer as well as pursuing a degree in BSc Hons Software Development for Business
+I am Yashas and I am currently working as a Full-Time Software Developer aswell as pursuing a univeristy degree in BSc (Hons) Software Development for Business.
+I am currently gaining skills in:
+
+* .Net Development
+* Web Development
+* Artificial Intelligence
+* Java Development
 
 * ✉️  You can contact me at [yashaspasumarthi@gmail.com](mailto:yashaspasumarthu@gmail.com)
-* 🧠  I'm learning Artificial Intelligence: Neural Networks
 
 ### Skills
 
