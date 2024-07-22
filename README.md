@@ -12,7 +12,7 @@ I am currently gaining skills in:
 * Artificial Intelligence
 * Java Development
 
-* ✉️  You can contact me at [yashaspasumarthi@gmail.com](mailto:yashaspasumarthu@gmail.com)
+ ✉️  You can contact me at [yashaspasumarthi@gmail.com](mailto:yashaspasumarthu@gmail.com)
 
 ### Skills
 
