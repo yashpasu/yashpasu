@@ -4,13 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am Yashas and I am currently working as a Full-Time Software Developer as well as pursuing a university degree in BSc (Hons) Software Development for Business.
-I am currently gaining skills in:
+I am Yashas.
+Software Developer with 3+ years of commercial experience gained through a Graduate Apprenticeship  while studying towards a BSc (Hons) in Software Development for Business at Heriot-Watt University. Experienced in full-stack development, legacy system modernisation, database technologies, and production-level software solutions within a fast-paced manufacturing environment.
 
+My technology stack proficient lies in:
 * .Net Development
-* Web Development
-* Artificial Intelligence
-* Java Development
+* SQL/PL SQL Development
+* Python Development
+* Python.NET
+
 
  ✉️  You can contact me at [yashaspasumarthi@gmail.com](mailto:yashaspasumarthu@gmail.com)
 
